@@ -1,0 +1,6 @@
+body{
+    background-image: url(Ripped\ flag.png), url(Parchment\ tile.png);
+    background-repeat: no-repeat, repeat;
+    background-position: bottom, center;
+    background-size: 12.5%, 20%;
+}

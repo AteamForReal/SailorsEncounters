@@ -1,0 +1,6 @@
+body{
+    background-image: url(Stack\ of\ Books.png), url(Pirate\ Dancing.gif), url(Parchment\ tile.png);
+    background-repeat: no-repeat, no-repeat, repeat;
+    background-position: bottom, top, center;
+    background-size: 15%, 7.5%, 20%;
+}
